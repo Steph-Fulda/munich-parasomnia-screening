@@ -36,12 +36,8 @@ Please cite the original validation article when using the MUPS:
 
 > Fulda, S., Hornyak, M., Müller, K., Cerny, L., Beitinger, P. A., & Wetter, T. C. (2008). Development and validation of the Munich Parasomnia Screening (MUPS): A questionnaire for parasomnias and nocturnal behaviors. *Somnologie, 12*, 56–65. https://doi.org/10.1007/s11818-008-0336-x
 
-## Copyright and licensing
 
-The repository is maintained by the corresponding author and main author of the questionnaire. The materials were historically made available with the paper. The original article is identified by the publisher as open access under a Creative Commons Attribution-NonCommercial license; the repository preserves the author-provided PDFs and attributes the original publication. A repository-level license should still be chosen deliberately, especially for the English illustrative translations and any third-party contributions.
 
-The repository currently contains **no LICENSE file** while the preferred licensing and attribution wording are finalized. See [`docs/citation-and-rights.md`](docs/citation-and-rights.md) for the current citation and rights review.
-`r`n
 ## Disclaimer
 
 The MUPS is a screening questionnaire and is not a substitute for clinical assessment or diagnosis. The repository materials are provided for research and documentation purposes.
