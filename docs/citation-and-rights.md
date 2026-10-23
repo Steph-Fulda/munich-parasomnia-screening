@@ -22,6 +22,5 @@ Before a public release, record the following in the repository:
 3. whether the original PDF files must remain unchanged;
 4. whether a repository-level license is appropriate; and
 5. the preferred citation and contributor credit for the translation.
-
-Do not create a Zenodo record or archival release until the repository owner explicitly approves it.
+`r`n
 

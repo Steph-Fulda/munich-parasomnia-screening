@@ -41,12 +41,9 @@ Please cite the original validation article when using the MUPS:
 The repository is maintained by the corresponding author and main author of the questionnaire. The materials were historically made available with the paper. The original article is identified by the publisher as open access under a Creative Commons Attribution-NonCommercial license; the repository preserves the author-provided PDFs and attributes the original publication. A repository-level license should still be chosen deliberately, especially for the English illustrative translations and any third-party contributions.
 
 The repository currently contains **no LICENSE file** while the preferred licensing and attribution wording are finalized. See [`docs/citation-and-rights.md`](docs/citation-and-rights.md) for the current citation and rights review.
-
-## Release policy
-
-This repository is prepared for review only. Do not create a Zenodo record, DOI, GitHub release, or other archival publication until the repository owner explicitly approves the release and the rights/licensing review is complete.
-
+`r`n
 ## Disclaimer
 
 The MUPS is a screening questionnaire and is not a substitute for clinical assessment or diagnosis. The repository materials are provided for research and documentation purposes.
+
 
